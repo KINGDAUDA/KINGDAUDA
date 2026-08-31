@@ -35,5 +35,4 @@ REST APIs | Postman | Git | GitHub
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/daniel-kunle-dauda-5067833b8/
-Portfolio: ...
 Email: danielkunledauda@gmail.com
