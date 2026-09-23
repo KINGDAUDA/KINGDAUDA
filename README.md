@@ -26,11 +26,12 @@ I'm currently developing my skills in:
 📖 ReadLeaf
 ☕ Coffee & WiFi
 ⌨️ Typing Speed Test
+📊 US Police Fatal Shootings
 
 ## Tech Stack
 
 Python | Flask | Pandas | NumPy | Matplotlib | Scikit-learn | Seaborn |
-REST APIs | Postman | Git | GitHub
+REST APIs | Postman | Git | GitHub | Tableau
 
 ## Connect
 
